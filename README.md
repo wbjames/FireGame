@@ -1,5 +1,5 @@
 ##FireGame
-1. this game is my first game written by swift, of course, I'm code follow the Brian Advent vidio on [http://www.swiftV.com](http://www.swiftV.com), a good chinese site about swift!
+1. this game is my first game written by swift, of course, I'm code follow the Brian Advent vidio on [http://www.swiftV.cn](http://www.swiftV.cn), a good chinese site about swift!
 
 
 2. the image in game used my gf and me,haha!
