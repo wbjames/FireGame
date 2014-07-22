@@ -57,7 +57,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         let minX = gy.size.width / 2
         let maxX = self.frame.width - gy.size.width / 2
         let rangeX = (maxX - minX)
-        let position:CGFloat = CGFloat(arc4random()) % CGFloat(rangeX) + CGFloat(minX)
+        let position:CGFloat = CGFloat(UInt(arc4random())) % CGFloat(rangeX) + CGFloat(minX)
         
         gy.position = CGPointMake(position, self.frame.size.height + gy.size.height)
         
